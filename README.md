@@ -79,11 +79,6 @@ python train.py
 python ensemble.py
 ```
 
-### (1st) Training
-```shell script
-python train.py
-```
-
 ### (2nd) Re-training with Pseudo Labels
 ```shell script
 python train_pseudo_label.py
